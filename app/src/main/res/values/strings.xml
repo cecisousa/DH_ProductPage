@@ -1,0 +1,8 @@
+<resources>
+<!--    <string name="app_name">DH_ProductPage</string>-->
+    <string name="app_name">Produto</string>
+    <string name="nome_do_produto">Nome do produto</string>
+    <string name="pre_o_do_produto">Preço do produto</string>
+    <string name="porcentagem_de_desconto">Porcentagem de desconto</string>
+    <string name="valor_total_a_pagar">Valor total a pagar</string>
+</resources>
